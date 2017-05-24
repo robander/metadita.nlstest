@@ -4,6 +4,36 @@
 <booktitle>
 <mainbooktitle>Book based NLS Test</mainbooktitle>
 </booktitle>
+<bookmeta>
+<critdates>
+<created date="2015-11-16"/>
+<revised modified="2016-05-03"/>
+<revised modified="2016-05-31"/>
+<revised modified="2017-05-23"/>
+<revised modified="2017-05-25"/>
+</critdates>
+<change-historylist>
+<change-item>
+<change-person>Robert D. Anderson</change-person>
+<change-organization>metadita</change-organization>
+<change-revisionid>ID-of-the-rev</change-revisionid>
+<change-request-reference>
+<change-request-system>request-system-lets-try-github</change-request-system>
+<change-request-id>request-id-in-reference</change-request-id>
+</change-request-reference>
+<change-started>2017-05-21</change-started>
+<change-completed>2017-05-22</change-completed>
+<change-summary>Moved to new repository. </change-summary>
+<data>Actually done on May 24th but I'm testing how date ranges interact with
+<xmlelement>critdates</xmlelement>.</data>
+</change-item>
+<change-item>
+<change-person>Robert D. Anderson</change-person>
+<change-completed>2017-05-24</change-completed>
+<change-summary>Added DITA 1.3 troubleshooting, change history elements</change-summary>
+</change-item>
+</change-historylist>
+</bookmeta>
 <frontmatter id="front">
 <booklists>
 <toc/>
