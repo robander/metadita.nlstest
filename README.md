@@ -28,6 +28,7 @@ See comments in the build file for instructions.
 
 ## What's missing
 
-The following languages (at least) need index coverage that includes terms with their own character set:
+The following languages (at least) need improved index coverage that includes terms with their own character set.
+For now, these use index terms taken from localized strings that already appear elsewhere as generated text: 
  * Japanese
  * Simplified Chinese
