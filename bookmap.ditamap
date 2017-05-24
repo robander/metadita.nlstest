@@ -4,7 +4,7 @@
 <booktitle>
 <mainbooktitle>Book based NLS Test</mainbooktitle>
 </booktitle>
-<bookmeta>
+<bookmeta id="bookmeta">
 <critdates>
 <created date="2015-11-16"/>
 <revised modified="2016-05-03"/>

@@ -4,6 +4,7 @@
 <booktitle>
 <mainbooktitle>Vietnamese Test</mainbooktitle>
 </booktitle>
+<bookmeta conref="bookmap.ditamap#bookmeta"/>
 <frontmatter conref="bookmap.ditamap#front"/>
 <part conref="bookmap.ditamap#p1"/><part conref="bookmap.ditamap#p2"/><part href="vi.dita"/>
 <appendices conref="bookmap.ditamap#app"/><backmatter conref="bookmap.ditamap#back"/>
