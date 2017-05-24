@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN"
+ "troubleshooting.dtd">
+<troubleshooting id="ts" xml:lang="en-us">
+<title>Troubleshooting topic</title>
+<shortdesc>This is a troubleshooting topic. DITA-OT does not generate text for these sections as of
+version 2.5, but likely will in the future, and other applications may already do so.</shortdesc>
+<troublebody>
+<condition>
+<p>This is a condition of the trouble.</p>
+</condition>
+<troubleSolution>
+<cause>
+<p>Here is a cause</p>
+</cause>
+<remedy>
+<responsibleParty>Obviously, you are responsible for fixing this.</responsibleParty>
+<steps>
+<step>
+<cmd>Here is a step in the remedy</cmd>
+</step>
+<step>
+<cmd>Another step in the remedy</cmd>
+</step>
+</steps>
+</remedy>
+</troubleSolution>
+<troubleSolution>
+<cause>
+<title>Title for the cause</title>
+<p>Here is a cause with a manual title.</p>
+</cause>
+<remedy>
+<title>Title for the remedy</title>
+<steps>
+<step>
+<cmd>This remedy had a title.</cmd>
+</step>
+<step>
+<cmd>A very informative one, I'd say.</cmd>
+</step>
+</steps>
+</remedy>
+</troubleSolution>
+</troublebody>
+</troubleshooting>

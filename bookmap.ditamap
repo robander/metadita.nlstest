@@ -22,6 +22,7 @@
 <part href="bookpart2.dita" id="p2">
 <chapter href="bookchap-task.dita"/>
 <chapter href="bookchap-ref.dita"/>
+<chapter href="bookchap-trouble.dita"/>
 </part>
 <part href="en.dita"/>
 <appendices id="app" href="bookapp-wrapper.dita">

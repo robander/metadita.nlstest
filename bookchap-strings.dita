@@ -124,6 +124,7 @@ reference or better yet a table list, I want to know what it looks like</title>
 <note type="remember">remember</note>
 <note type="restriction">restriction</note>
 <note type="tip">tip</note>
+<note type="trouble">trouble</note>
 <note><ol>
 <li>This is a list in a note</li>
 <li>This is still a list in a note</li>

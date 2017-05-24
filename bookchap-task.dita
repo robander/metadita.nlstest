@@ -32,10 +32,15 @@
 </choicetable>
 </step>
 <step>
+<cmd>This step comes with troubleshooting information.</cmd>
+<steptroubleshooting>Do this to troubleshoot if it did not work.</steptroubleshooting>
+</step>
+<step>
 <cmd>And finally a normal step.</cmd>
 </step>
         </steps>
 <result>if you do things properly, this is your result.</result>
+<tasktroubleshooting>This is troubleshooting information for the task.</tasktroubleshooting>
 <example>here is an example of what my task might do.</example>
 <postreq>And after all of that, you should move on to...</postreq>
     </taskbody>
