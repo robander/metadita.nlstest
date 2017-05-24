@@ -39,6 +39,7 @@
 <toc/>
 <figurelist/>
 <tablelist/>
+<booklist outputclass="changelist"/>
 </booklists>
 <preface href="bookpreface.dita"/>
 <notices href="booknotices.dita"/>
@@ -53,6 +54,7 @@
 <chapter href="bookchap-task.dita"/>
 <chapter href="bookchap-ref.dita"/>
 <chapter href="bookchap-trouble.dita"/>
+<chapter href="bookchap-textonly.dita"/>
 </part>
 <part href="en.dita"/>
 <appendices id="app" href="bookapp-wrapper.dita">

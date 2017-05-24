@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="justTheTextPlease">
+  <title>Text only mode</title>
+<shortdesc>Short description is placed in X/HTML metadata with text-only mode. <image
+href="puffinHead.png">
+<alt><menucascade>
+<uicontrol>This</uicontrol>
+<uicontrol>That</uicontrol>
+</menucascade> and <ph>index:<indexterm>index</indexterm></ph> and <ph>the deprecated boolean
+<boolean state="no"/></ph>: and <ph>the odd state <state name="MN" value="nice?"/></ph> and
+<ph>finally a <q>quote</q></ph></alt>
+</image></shortdesc>
+  <body>
+<p>As of DITA-OT 2.5 only quotes and menu cascades <i>generate</i> text in the text-only mode, but
+some other elements have their own text-only processing so I've added them. All are specified above
+in the image's alt text, which also goes to text only.</p>
+</body>
+</topic>
