@@ -129,6 +129,16 @@ reference or better yet a table list, I want to know what it looks like</title>
 <li>This is a list in a note</li>
 <li>This is still a list in a note</li>
 </ol></note>
+<ul>
+<li>XML Mention domain:</li>
+<li><xmlatt>xmlatt</xmlatt></li>
+<li><xmlelement>xmlelement</xmlelement></li>
+<li><xmlnsname>xmlnsname</xmlnsname></li>
+<li><xmlpi>xmlpi</xmlpi></li>
+<li><textentity>textentity</textentity></li>
+<li><parameterentity>parameterentity</parameterentity></li>
+<li><numcharref>numcharref</numcharref></li>
+</ul>
 </conbody>
 <related-links>
 <link href="http://dita-ot.org" type="reference" format="html" scope="external"><linktext>DITA-OT link as reference</linktext></link>
